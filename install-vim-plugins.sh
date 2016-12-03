@@ -12,3 +12,6 @@ git clone https://github.com/scrooloose/nerdcommenter.git ~/.vim/bundle/nerdcomm
 
 echo Installing matchit...
 git clone https://github.com/vim-scripts/matchit.zip ~/.vim/bundle/matchit
+
+echo Installing fugitive
+git clone git://github.com/tpope/vim-fugitive.git ~/.vim/bundle/vim-fugitive
