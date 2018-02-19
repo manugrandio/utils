@@ -1,1 +1,1 @@
-git diff --name-only --cached |xargs flake8
+git diff --name-only --cached | grep "\.py$" | xargs flake8
