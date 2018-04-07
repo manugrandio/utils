@@ -21,3 +21,6 @@ git clone https://github.com/nvie/vim-flake8.git ~/.vim/bundle/vim-flake8
 
 echo Installing gitgutter...
 git clone git://github.com/airblade/vim-gitgutter.git ~/.vim/bundle/vim-gitgutter.git
+
+echo Installing CtrlP...
+git clone https://github.com/ctrlpvim/ctrlp.vim.git ~/.vim/bundle/ctrlp.vim.git
